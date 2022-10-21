@@ -1,0 +1,44 @@
+.addDiv{
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: auto;
+  width: 400px;
+  padding: 50px;
+  background-color: white;
+  outline-style: dotted;
+  outline-color: rgb(252, 35, 209);
+  margin-top: 100px;
+}
+
+#inp{
+    padding: 9px;
+    font-size: 20px;
+    border-width: 1px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: dashed;
+    border-radius: 9px;
+    box-shadow: 3px 0px 11px rgba(66,66,66,.65);
+}
+
+p{
+    font-size: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
